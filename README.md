@@ -1,18 +1,20 @@
-# Welcome to your Lovable project
+# Welcome to the project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Project Name: CrisisConnect (Command Hub Dashboard)
 
-## How can I edit this code?
+Hackathon: Smart India Hackathon (SIH) 2026
 
-There are several ways of editing your application.
+Theme: Disaster Management
 
-**Use Lovable**
+Frontend Stack: React.js (Component-driven UI, responsive state management)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Backend Architecture: Spring Boot (RESTful APIs, cryptographic payload handling)
 
-Changes made via Lovable will be committed automatically to this repo.
+System Visualization: Mermaid.js (Mesh topography and data flow diagrams)
+
+Primary Objective: Providing a centralized, offline-capable dashboard for disaster management authorities (NDRF) to monitor decentralized multi-hop mesh networks, visualize predictive survivor trajectories, and dispatch Edge AI triage UAVs during complete grid collapse.
 
 **Use your preferred IDE**
 
@@ -60,11 +62,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
